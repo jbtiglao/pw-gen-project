@@ -12,7 +12,7 @@ As a web developer, I am required to modify a starter code to create an applicat
 This application does not require installation. This application runs in a browser while its HTML, CSS, JS, images, and README files can be accessed through the author's GitHub repository at https://github.com/jbtiglao.
 
 
-![image of the password generator app](./assets/image/pw_gen1.png)  
+![image of the password generator app](./assets/images/pw_gen1.jpg)  
 
 
 
@@ -30,7 +30,7 @@ In accordance with the acceptance criteria required of the project , the applica
 
 
 
-![image of prompt for password length](./assets/image/pw_gen2_pwlength.png) 
+![image of prompt for password length](./assets/images/pw_gen2_pwlength.jpg) 
 
 
 
@@ -38,14 +38,14 @@ In accordance with the acceptance criteria required of the project , the applica
 
 
 
-![image of prompt when password length is less than 8 or more than 128 characters](./assets/image/pw_gen4_nolength.png)  
+![image of prompt when password length is less than 8 or more than 128 characters](./assets/images/pw_gen4_nolength.jpg)  
 
 
 - When the user chooses a number between 8 and 128, the user is then prompted with the succeeding criteria to include or exclude in the password: uppercase letters, lowercase letters, numbers, and/or symbols (special characters);
 
 
 
-![image of the password generator criteria for uppercase letters](./assets/image/pw_gen3_criteria.png)  
+![image of the password generator criteria for uppercase letters](./assets/images/pw_gen3_criteria.jpg)  
 
 
 
@@ -57,7 +57,7 @@ In accordance with the acceptance criteria required of the project , the applica
 
 
 
-![image of the prompt when no criteria is selected](./assets/image/pw_gen5_nocriteria.png)  
+![image of the prompt when no criteria is selected](./assets/images/pw_gen5_nocriteria.jpg)  
 
 
 
@@ -67,7 +67,7 @@ In accordance with the acceptance criteria required of the project , the applica
 
 
 
-![image of generated password](./assets/image/pw_gen6_generatedpw.png) 
+![image of generated password](./assets/images/pw_gen6_generatedpw.jpg) 
 
 
 
@@ -75,17 +75,17 @@ In accordance with the acceptance criteria required of the project , the applica
 
 The following books, materials, websites, and resources were consulted in the development of this project:
 
-- Unit 3 Handouts on Javascript, UCI Coding Bootcamp;
+- Unit 3 Handouts on Javascript, UCI Coding Bootcamp
 
-- MDN web docs on Javascript;
+- MDN web docs on Javascript
 
-- Murach's Javascript and jQuery 4th Edition by Mary Delamater and Zak Ruvalcaba, CA, 2020;
+- Murach's Javascript and jQuery 4th Edition by Mary Delamater and Zak Ruvalcaba, CA, 2020
 
-- List of password special characters, https://www.owasp.org/index.php/Password_special_characters) from the OWASP Foundation;
+- List of password special characters, [The OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters). 
 
-- http://www.w3schools;
+- [w3schools](http://www.w3schools)
 
-- http://www.youtube.com;
+- [YouTube](http://www.youtube.com) 
 
 - Dane Shrewsbury, Bootcamp tutor par excellence, for critiquing my work and for the very informative and productive tutoring session on console.log and for loops;
 

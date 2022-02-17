@@ -9,7 +9,7 @@ As a web developer, I am required to modify a starter code to create an applicat
 
 ## Installation
 
-This application does not require installation. This application runs in a browser while its HTML, CSS, JS, images, and README files can be accessed through the author's GitHub repository at https://github.com/jbtiglao.
+This application runs in a browser and is deployed here: https://jbtiglao.github.io/pw-gen-project/. While the application's HTML, CSS, JS, images, and README files can be accessed through the author's GitHub repository at https://github.com/jbtiglao. 
 
 
 ![image of the password generator app](./assets/images/pw_gen1.jpg)  

@@ -92,3 +92,7 @@ The following books, materials, websites, and resources were consulted in the de
 - Jackie Tseng, Bootcamp instructor par excellence, for critiquing my work and walking me through some Javascript processes, and helping Javascript make a lot more sense;
 
 - David Cox, TA par excellence, for the never-ending patience, pep-talks during breakout rooms/group work, and invaluable tips.
+
+## License
+MIT License. Please see LICENSE on the application's GitHub repository.
+
